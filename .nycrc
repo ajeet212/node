@@ -17,5 +17,5 @@
   "temp-directory": "coverage/tmp",
   "omit-relative": false,
   "resolve": "./lib",
-  "wrapper-length": 0
+  "wrapper-length": 1
 }
